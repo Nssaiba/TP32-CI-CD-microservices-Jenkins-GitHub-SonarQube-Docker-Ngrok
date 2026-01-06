@@ -8,30 +8,6 @@
 
 ---
 
-## ▶️ Exécution manuelle du pipeline Jenkins
-
-<img width="1600" height="503" alt="image" src="https://github.com/user-attachments/assets/88edfa76-6e3f-4084-b495-d9d067bd38d2" />
-
-
-
-# 📊 Vue Stage View du pipeline Jenkins (manuel)
-
-<img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/628de053-5d87-40b8-9c8d-0fd69d833477" />
-
----
-
-## ✅ Résultat du pipeline exécuté manuellement
-
-<img width="1600" height="162" alt="image" src="https://github.com/user-attachments/assets/e795d1f3-35dd-49b2-b4db-b3a533ef714a" />
-
----
-
-## ✏️ Résultat de la modification du code et push apres le Déclenchement automatique du pipeline via GitHub Webhook
-
-<img width="1600" height="165" alt="image" src="https://github.com/user-attachments/assets/b44dfba1-fcda-4276-a12d-1984bbfc3ec6" />
-
----
-
 ## 🔗 Configuration du webhook GitHub vers Jenkins
 
 <img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/a1b2777c-72c1-4402-b57d-91d1924082ba" />
